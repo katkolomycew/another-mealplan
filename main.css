@@ -134,7 +134,7 @@ body {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url(https://images.unsplash.com/photo-1560717869-37296557a131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-image: url(https://images.unsplash.com/photo-1530199320416-f8859a3e988c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -148,7 +148,7 @@ body {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url(https://images.unsplash.com/photo-1564759077036-3def242e69c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-image: url(https://images.unsplash.com/photo-1475869430886-fb14585f7443?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -162,7 +162,7 @@ body {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url(https://images.unsplash.com/photo-1539136788836-5699e78bfc75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-image: url(https://food-images.files.bbci.co.uk/food/recipes/chickenkievwithmashe_83483_16x9.jpg);
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -176,7 +176,7 @@ body {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url(https://images.unsplash.com/photo-1548247661-3d7905940716?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80);
+  background-image: url(https://img.taste.com.au/5qlr1PkR/taste/2016/11/spaghetti-bolognese-106560-1.jpeg);
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -184,7 +184,7 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
-#parallax-world-of-ugg .parallax-five {
+/* #parallax-world-of-ugg .parallax-five {
   padding-top: 100px;
   padding-bottom: 100px;
   overflow: hidden;
@@ -225,7 +225,7 @@ body {
   -webkit-background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-}
+} */
 #parallax-world-of-ugg .parallax-eight {
   padding-top: 100px;
   padding-bottom: 100px;
